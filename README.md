@@ -1,5 +1,7 @@
 ## Schedule
 
+**If possible, please ensure that you have updated versions of both R and RStudio, and install the package `{tidyverse}`, which contains the `{dplyr}` and `{ggplot2}` packages we'll be using, as well as packages such as `{stringr}` and `{tidyr}` that we may use to solve your specific data wrangling challenges!**  
+
 ### Thursday, February 7, 2019
 
 **Session 1:** Co-working session  
@@ -44,6 +46,3 @@
 *Time:* 15:00 - 17:00  
 *Location:* University Club or Axe Lounge (TBA)  
 *Description:* Code alongside friends, tackle coding problems, and (optionally) have a beer in a cooperative, casual setting  
-
-
-**If possible, please ensure that you have updated versions of both R and RStudio, and install the package `{tidyverse}`, which contains the `{dplyr}`, `{ggplot2}`, and `{tidyr}` packages we'll be using.**
