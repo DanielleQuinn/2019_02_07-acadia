@@ -44,3 +44,6 @@
 *Time:* 15:00 - 17:00  
 *Location:* University Club or Axe Lounge (TBA)  
 *Description:* Code alongside friends, tackle coding problems, and (optionally) have a beer in a cooperative, casual setting  
+
+
+**If possible, please ensure that you have updated versions of both R and RStudio, and install the package `{tidyverse}`, which contains the `{dplyr}`, `{ggplot2}`, and `{tidyr}` packages we'll be using.**
